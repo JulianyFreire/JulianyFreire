@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, eu sou Juliany Freire ✨</h1>
 
 <p align="center">
-  <h4>Desenvolvedora Frontend</h4>
+  <strong>Desenvolvedora Frontend</strong>
   Apaixonada por inovação e tecnologia com propósito 🚀
 </p>
 
