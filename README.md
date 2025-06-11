@@ -1,9 +1,11 @@
-<h1 align="center">Juliany Freire</h1>
+<h1 align="center">✨ Olá, eu sou Juliany Freire ✨</h1>
 
 <p align="center">
-  <strong>Desenvolvedora Frontend</strong>
+  Desenvolvedora Frontend<br>
+  Apaixonada por inovação e tecnologia com propósito 🚀
 </p>
 
+---
 ---
 
 ### 👩‍💻 Sobre mim
