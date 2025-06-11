@@ -1,8 +1,7 @@
-<h1 align="center">✨ Olá, eu sou Juliany Freire ✨</h1>
+<h1 align="center">Juliany Freire</h1>
 
 <p align="center">
-  Desenvolvedora Frontend • React | React Native | TypeScript | Node.js<br>
-  Apaixonada por inovação, impacto social e tecnologia com propósito 💡🚀
+  <strong>Desenvolvedora Frontend</strong>
 </p>
 
 ---
